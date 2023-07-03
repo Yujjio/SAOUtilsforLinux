@@ -1,3 +1,65 @@
-.blood_bar_body {
-    /* background: linear-gradient(rgba(255, 255, 255, 0.7), rgb(255, 255, 255, 0)); */
+.player_name {
+	width: 50px;
+	height: 15px;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	font-weight: bold;
+	padding: 0px;
 }
+.blood_bar_left_white {
+		width: 125px;
+		height: 15px;
+		opacity: 0;
+		margin: 0 auto;
+		padding: 0px;
+		border: 1px solid #fff;
+		border-right: 0px;
+}
+.blood_bar_left_black {
+		width: 121px;
+		height: 9px;
+		margin: 0 auto;
+		padding: 0px;
+		border: 2px solid #545456;
+		border-right: 0px;
+}
+.blood_bar_left_green {
+		width: 119px;
+		height: 9px;
+		margin: 0 auto;
+		padding: 0px;
+		border: 0px;
+		background-color: #7CC21B;
+}
+.blood_bar_right_white {
+		width: 120px;
+		height: 10px;
+		opacity: 0;
+		margin: 0 auto;
+		padding: 0px;
+		border: 1px solid #fff;
+		border-left: 0px;
+}
+.blood_bar_right_black {
+		width: 118px;
+		height: 5px;
+		margin: 0 auto;
+		padding: 0px;
+		border: 2px solid #545456;
+		border-left: 0px;
+}
+.blood_bar_right_green {
+		width: 118px;
+		height: 5px;
+		margin: 0 auto;
+		padding: 0px;
+		border: 0px;
+		background-color: #7CC21B;
+}
+
+
+
+
+
